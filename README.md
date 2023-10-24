@@ -2,7 +2,7 @@
 
 ## Compatability
 
-| Dev Board    | Varian 3.3V | Varian 5V | Varian Dual 3.3V & 5V |
+| Dev Board    | Variant 3.3V | Variant 5V | Variant Dual 3.3V & 5V |
 |--------------|-------------|-----------|-----------------------|
 | ESP32        | v           | x         | v                     |
 | ESP8266      | v           | x         | v                     |
