@@ -26,10 +26,10 @@ LoRa RFM95 works through SPI Connections. The SPI connections compose of MOSI/CO
 
 | Development Board    | LoRa Breakout                | MOSI | MISO | SCK  | RST  | NSS  | DIO0 | DIO1 |
 |----------------------|------------------------------|------|------|------|------|------|------|------|
-| ESP32                | Variant 3.3V & Variant Dual  | IO13 | IO12 | IO14 | IO26 | IO15 | IO27 | NC   | 
-| Arduino Uno R3       | Variant 5V & Variant Dual    | 11   | 12   | 13   | 9    | 10   | 2    | 6    |
-| Arduino Mega R3      | Variant 5V & Variant Dual    | 51   | 50   | 53   | 9    | 10   | 2    | 6    |
-| Arduino Leonardo     | Variant 5V & Variant Dual    | 11   | 12   | 13   | 9    | 10   | 2    | 6    |
+| ESP32                | • Variant 3.3V <br> • Variant Dual  | IO13 | IO12 | IO14 | IO26 | IO15 | IO27 | NC   | 
+| Arduino Uno R3       | • Variant 5V <br> • Variant Dual    | 11   | 12   | 13   | 9    | 10   | 2    | 6    |
+| Arduino Mega R3      | • Variant 5V <br> • Variant Dual    | 51   | 50   | 53   | 9    | 10   | 2    | 6    |
+| Arduino Leonardo     | • Variant 5V <br> • Variant Dual    | 11   | 12   | 13   | 9    | 10   | 2    | 6    |
 
 ## Examples
 On Going
